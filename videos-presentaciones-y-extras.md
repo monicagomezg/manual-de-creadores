@@ -1,6 +1,6 @@
-Si te fijas en FILES verás un archivo que se llama *book.json* si eres curioso **te hemos puesto el siguiente código** \{"plugins": ["youtube", "accordion", ... esto permite añadir ciertos códigos
+Si te fijas en FILES verás un archivo que se llama *book.json* , si tienes curiosidad **te hemos puesto el siguiente código** \{"plugins": ["youtube", "accordion", ... esto permite añadir ciertos códigos
 #Vídeos
-Por ejemplo nos interesa embeber el siguiente vídeo de Youtube: https://www.youtube.com/watch?v=JXamK7Lbp4I
+Por ejemplo, nos interesa embeber el siguiente vídeo de Youtube: https://www.youtube.com/watch?v=JXamK7Lbp4I
 
 Pues el código es el siguiente:
 
@@ -14,9 +14,9 @@ Y queda así:
 
 Es ideal para hacer videotutoriales de forma rápida y muy editable. Recomendamos Google y poner su código embebido
 
-Ver apartado 6.- [Video tutoriales](/video_tutoriales.md) 6.1.-[Presentación de Google](/presentacin_de_google.md) 6.2.-[Como conseguir el código embed](/como_conseguir_el_cdigo_embed_de_presentaciones_de_google.md)
+Ver apartado 6.- [Vídeo tutoriales](/video_tutoriales.md) 6.1.-[Presentación de Google](/presentacin_de_google.md) 6.2.-[Cómo conseguir el código embed](/como_conseguir_el_cdigo_embed_de_presentaciones_de_google.md)
 
-#Acordeon
+#Acordeón
 Si pones el siguiente código:
 
 ![](/assets/2019-09-26 11_41_30.jpg)
