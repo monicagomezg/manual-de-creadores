@@ -1,8 +1,8 @@
-# Manual para creadores de cursos en [Aularagón](http://aularagon.catedu.es/)
+# Manual para la creación de cursos en [Aularagón](http://aularagon.catedu.es/)
 
 ![](img/cabeceraweb.jpg)
 
-Este es un manual para los creadores de cursos en Aularagón
+Este es un manual para las personas encargadas de crear cursos en Aularagón
 
 ## Contacto
 
