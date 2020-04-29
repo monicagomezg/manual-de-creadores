@@ -2,7 +2,7 @@
 
 A veces lo sencillo es lo mejor
 
-1. Lo que recomendamos es entrar en una cuenta **Google** (si no tienes una nosotros te la proporcionamos).
+1. Lo que recomendamos es entrar en una cuenta **Google** (si no tienes una, te la proporcionamos).
 2. Abrir un documento de **Google en Drive** tipo **presentación**.
 
 3. En cada diapositiva se pone de imagen de **fondo una captura de pantalla.** Para la captura de pantalla existen numerosas herramientas:
@@ -12,7 +12,7 @@ A veces lo sencillo es lo mejor
     * Software libre [GreenShot](http://getgreenshot.org/).
     * Apretar el botón ImprPant.
 
-4. Con las herramientas de la presentación de Google Presentaciones se ponen textos, flechas... etc, no utilizar las de la captura de pantalla pues con las de Google es más facil su posterior edición y mantenimiento.
+4. Con las herramientas de la presentación de Google Presentaciones se ponen textos, flechas, etc., no utilizar las de la captura de pantalla, pues con las de Google es más facil su posterior edición y mantenimiento.
 
 5. Embeber ese documento en tus contenidos.
 
