@@ -1,4 +1,4 @@
-Si te fijas en FILES verás un archivo que se llama *book.json* si eres curioso **te hemos puesto el siguiente código** \{"plugins": ["youtube", "accordion", ... esto permite añadir ciertos códigos
+Si te fijas en FILES verás un archivo que se llama *book.json* si tienes curiosidad **te hemos puesto el siguiente código** \{"plugins": ["youtube", "accordion", ... esto permite añadir ciertos códigos
 #Vídeos
 Por ejemplo nos interesa embeber el siguiente vídeo de Youtube: https://www.youtube.com/watch?v=JXamK7Lbp4I
 
